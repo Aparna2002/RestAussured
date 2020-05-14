@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14695" started-at="2020-05-14T19:11:47 IST" finished-at="2020-05-14T19:12:01 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14695" started-at="2020-05-14T19:11:47 IST" finished-at="2020-05-14T19:12:01 IST">
+      <class name="com.testcases.GetRequest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.testcases.GetRequest@44a3ec6b]" name="init" is-config="true" duration-ms="15" started-at="2020-05-14T19:11:47 IST" finished-at="2020-05-14T19:11:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="getWetherDetails()[pri:0, instance:com.testcases.GetRequest@44a3ec6b]" name="getWetherDetails" duration-ms="14599" started-at="2020-05-14T19:11:47 IST" finished-at="2020-05-14T19:12:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getWetherDetails -->
+      </class> <!-- com.testcases.GetRequest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
